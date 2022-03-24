@@ -52,7 +52,7 @@ Gregotti, Vittorio. _Il territorio dell'architettura_. Feltrinelli, 1966.
 
 Jenni, Rolf, Christian M. Inderbitzin, and Milica Topalovic. "Interview with Vittorio Gregotti." In _San Rocco 02 / The Even Covering of the Field_. San Rocco, 2011.
 
-Lucking, Maura. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Form of the Discourse: A Contextual Hermeneutic of Vittorio Gregotti's 'Territory'." (PDF)](https://www.scribd.com/doc/310404588/The-Form-of-the-Discourse-A-Contextual-Hermeneutic-of-Vittorio-Gregotti-s-Territory-Maura-Lucking-Academia-pdf) 2012. (Presented at the Belonging: Cultural Topographies of Identity, University College Dublin.)
+Lucking, Maura. ["The Form of the Discourse: A Contextual Hermeneutic of Vittorio Gregotti's 'Territory'." (PDF)](https://www.scribd.com/doc/310404588/The-Form-of-the-Discourse-A-Contextual-Hermeneutic-of-Vittorio-Gregotti-s-Territory-Maura-Lucking-Academia-pdf) 2012. (Presented at the Belonging: Cultural Topographies of Identity, University College Dublin.)
 
 
 {{< tdclose >}}
@@ -220,7 +220,7 @@ Reification – Marx, Lukács, and Beyond
 {{< tdopen >}}
 
 
-Burris, Val. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reification: A Marxist Perspective." (PDF)](http://pages.uoregon.edu/vburris/reification.pdf) _California Sociologist_ 10, no. 1 (1988): 22–43.
+Burris, Val. ["Reification: A Marxist Perspective." (PDF)](http://pages.uoregon.edu/vburris/reification.pdf) _California Sociologist_ 10, no. 1 (1988): 22–43.
 
 Bewes, Timothy. "Reification as Cultural Anxiety." In _Reification, Or, The Anxiety of Late Capitalism_. Verso, 2002, pp. 191–201. ISBN: 9781859846858. \[Preview with [Google Books](http://books.google.com/books?id=7As1si7EQwMC&pg=PA193=onepage)\]
 
@@ -256,17 +256,17 @@ Lefebvre, Henri. "From the City to Urban Society" and "The Urban Society." In _T
 
 Brenner, Neil, and Christian Schmid. "[Towards a New Epistemology of the Urban?](http://dx.doi.org/10.1080/13604813.2015.1014712)" _City: Analysis of Urban Trends, Culture, Theory, Policy, Action_ 19, no. 2–3 (2015): 151–82.
 
-Walker, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Building a Better Theory of the Urban: A Response to 'Towards a New Epistemology of the Urban?'" (PDF)](https://geography.berkeley.edu/sites/default/files/walker_108.pdf) _City: Analysis of Urban Trends, Culture, Theory, Policy, Action_ 19, no. 2–3 (2015): 183–91.
+Walker, Richard. ["Building a Better Theory of the Urban: A Response to 'Towards a New Epistemology of the Urban?'" (PDF)](https://geography.berkeley.edu/sites/default/files/walker_108.pdf) _City: Analysis of Urban Trends, Culture, Theory, Policy, Action_ 19, no. 2–3 (2015): 183–91.
 
 ### Further Readings
 
-Brenner, Neil. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Global, Fragmented, Hierarchical: Henri Lefebvre's Geographies of Globalization." (PDF - 4.2MB)](http://americanstudies.as.nyu.edu/docs/IO/222/1997.Brenner.Public.Culture.pdf) _Public Culture_ 10, no. 1 (1997): 135–67.
+Brenner, Neil. ["Global, Fragmented, Hierarchical: Henri Lefebvre's Geographies of Globalization." (PDF - 4.2MB)](http://americanstudies.as.nyu.edu/docs/IO/222/1997.Brenner.Public.Culture.pdf) _Public Culture_ 10, no. 1 (1997): 135–67.
 
 Friedmann, John. "[The World City Hypothesis](http://dx.doi.org/10.1111/j.1467-7660.1986.tb00231.x)." _Development and Change_ 17, no. 1 (1986): 69–83.
 
 Lefebvre, Henri. "The Worldwide and the Planetary." In _State, Space, World: Selected Essays_. Edited by Neil Brenner and Stuart Elden. University of Minnesota Press, 2009. ISBN: 9780816653171. \[Preview with [Google Books](http://books.google.com/books?id=5cYnB3KsqdkC&pg=PA196=onepage)\]
 
-Elden, Stuart. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Space of the World." (PDF)](https://progressivegeographies.files.wordpress.com/2015/01/elden-2011-the-space-of-the-world.pdf) _New Geographies_ 4 (2011): 26–31.
+Elden, Stuart. ["The Space of the World." (PDF)](https://progressivegeographies.files.wordpress.com/2015/01/elden-2011-the-space-of-the-world.pdf) _New Geographies_ 4 (2011): 26–31.
 
 
 {{< tdclose >}}
@@ -324,7 +324,7 @@ Picon, Antoine. "[Anxious Landscapes: From the Ruin to Rust](http://dx.doi.org/1
 
 Segal, Rafi, and Els Verbakel. "[Urbanism without Density](http://dx.doi.org/10.1002/ad.601)." _Architectural Design_ 78, no. 1 (2008): 6–11.
 
-Wigley, Mark. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Network Fever." (PDF)](http://www.dextersinister.org/MEDIA/PDF/-NetworkFever.pdf) _Grey Room_ 1, no. 4 (2001): 82–122.
+Wigley, Mark. ["Network Fever." (PDF)](http://www.dextersinister.org/MEDIA/PDF/-NetworkFever.pdf) _Grey Room_ 1, no. 4 (2001): 82–122.
 
 ### Further Readings
 
@@ -354,7 +354,7 @@ The Border
 
 Mezzadra, Sandro, and Brett Neilson. "Fabrica Mundi. Producing the World by Drawing Borders." In _Scapegoat: Archtecture, Landscape, Political Economy_. CreateSpace Independent Publishing Platform, 2013, pp. 3–18. ISBN: 9781482370683.
 
-Cuttitta, Paolo. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Points and Lines: A Topography of Borders in the Global Space." (PDF)](http://www.ephemerajournal.org/sites/default/files/6-1cuttitta.pdf) _Ephemera: Theory and Politics in Organizations_ 6, no. 1 (2006): 27–39.
+Cuttitta, Paolo. ["Points and Lines: A Topography of Borders in the Global Space." (PDF)](http://www.ephemerajournal.org/sites/default/files/6-1cuttitta.pdf) _Ephemera: Theory and Politics in Organizations_ 6, no. 1 (2006): 27–39.
 
 Vaughan-Williams, Nick. "Borders are Not What or Where They are Supposed to Be: Security, Territory, Law." In _Border Politics: The Limits of Sovereign Power_. Edinburgh University Press, 2009, pp. 14–37. ISBN: 9780748637324. \[Preview with [Google Books](http://books.google.com/books?id=URGrBgAAQBAJ&pg=PA14=onepage)\]
 
@@ -426,7 +426,7 @@ Aureli, Pier Vittorio. "The City as a Political Form." In _Visionary Power: Prod
 
 Aureli, Pier Vittorio, and Martino Tattara. "Architecture as Framework: The Project of the City and the Crisis of Neoliberalism." _New Geographies_ 1 (2009): 36–51.
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Stop City." (PDF)](http://www.gizmoweb.org/wp-content/uploads/2010/01/stop-city_dogma.pdf) _Perspecta_, no. 43 (2010): 47–53.
+———. ["Stop City." (PDF)](http://www.gizmoweb.org/wp-content/uploads/2010/01/stop-city_dogma.pdf) _Perspecta_, no. 43 (2010): 47–53.
 
 ### Exhibition
 
